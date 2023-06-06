@@ -1,9 +1,4 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Sed tincidunt sem sed ipsum eleifend, id venenatis velit consectetur. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada 
-fames ac turpis egestas. Donec dapibus fringilla nunc, sed cursus dolor 
-eleifend vitae. Nulla facilisi. Ut convallis gravida velit, at vestibulum 
-metus porta id. Aliquam blandit neque nec lectus faucibus semper.
 Sed eget metus justo. Donec pharetra dui mi, non consectetur metus posuere nec.
 Duis id ante quis purus ullamcorper vestibulum. Fusce viverra malesuada metus vitae congue.
 Sed tincidunt congue efficitur. Vestibulum et lacus eleifend, sollicitudin purus ac,
